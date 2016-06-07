@@ -21,5 +21,6 @@ This file is located in [share/participants.md][url]. Use the following format:
 * Yong Jung, Bioinformatics and Genomics, Penn State University
 * Anna Basile, Biochemistry, Penn State University 
 * Christopher Cross, Anatomy, Howard University
+* Patricia Silveyra, Pediatrics, Penn State College of Medicine
 
 [url]: https://github.com/biostars/bootcamp-central/blob/master/web/2016/share/participants.md
